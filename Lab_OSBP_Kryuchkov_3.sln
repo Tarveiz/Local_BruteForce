@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_OSBP_Kryuchkov_3", "Lab_OSBP_Kryuchkov_3\Lab_OSBP_Kryuchkov_3.csproj", "{235A93E3-9F28-45FA-9A6E-9ADEEB1368BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{235A93E3-9F28-45FA-9A6E-9ADEEB1368BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235A93E3-9F28-45FA-9A6E-9ADEEB1368BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235A93E3-9F28-45FA-9A6E-9ADEEB1368BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235A93E3-9F28-45FA-9A6E-9ADEEB1368BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2CB53D2-A9BE-41D1-A75A-1667DE8EA45A}
+	EndGlobalSection
+EndGlobal
